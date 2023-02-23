@@ -30,7 +30,7 @@ All the above packages are listed in the requirements.txt which can be used by t
 ```
 pip install -r requirements.txt
 ```
-
+![Design](/Architecture.jpeg)
 ### Running the pipeline
 1. Navigate to the AWS Glue console and create a new Glue job.
 2. Select the Glue role you created in the prerequisites.
